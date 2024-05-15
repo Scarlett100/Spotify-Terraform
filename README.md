@@ -4,6 +4,8 @@
 
 I created a spotify playlist using terraform!
 
+[Click Here to see](https://open.spotify.com/playlist/1yRPwdbvBSkwU1CFTW0gpe)
+
 
 
 
