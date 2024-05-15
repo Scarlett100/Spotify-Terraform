@@ -32,6 +32,6 @@ resource "spotify_playlist" "playlist" {
     "1WJfspc1lIKz3dyVbCvHnF",
     "6SSSGEgfuqTP75xaNOwsTo",
     "55HWsOjIkrP3Pomed4zjkH",
-    "4nRBgPceAv04r19I9Xn3Tk"
+    
   ]
 }
